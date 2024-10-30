@@ -1,0 +1,95 @@
+img.settings_view_image{
+	max-width: 15%;
+	height: auto;
+	vertical-align: middle;
+}
+
+h2.settings_title{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+
+.bun_myCustomSpinner {
+    background-size: 100% auto;
+    height: 15px;
+    margin-right: 0;
+    margin-top: 0;
+    vertical-align: middle;
+    width: 15px;
+	float: none;
+}
+
+.column-sn {
+    max-width: 10% !important;
+    width: 4%;
+}
+
+/**
+ * iOS 6 style switch checkboxes
+ * by Lea Verou http://lea.verou.me
+ */
+:root input[type="checkbox"] {
+  /* :root here acting as a filter for older browsers */
+  position: absolute !important ;
+  opacity: 0 !important ;
+}
+:root input[type="checkbox"] + div {
+  display: inline-block !important ;
+  vertical-align: middle !important ;
+  width: 3em !important ;
+  height: 1em !important ;
+  border: 1px solid rgba(0, 0, 0, 0.3) !important ;
+  border-radius: 999px !important ;
+  margin: 0 !important ;
+  background: white !important ;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), transparent), linear-gradient(90deg, #3d99f5 50%, transparent 50%) !important ;
+  background-size: 200% 100% !important ;
+  background-position: 100% 0 !important ;
+  background-origin: border-box !important ;
+  background-clip: border-box !important ;
+  overflow: hidden !important ;
+  transition-duration: .4s !important ;
+  transition-property: padding, width, background-position, text-indent !important ;
+  box-shadow: 0 0.1em 0.1em rgba(0, 0, 0, 0.2) inset, 0 0.45em 0 0.1em rgba(0, 0, 0, 0.05) inset !important ;
+  font-size: 150% !important ;
+  /* change this and see how they adjust! */
+}
+:root input[type="checkbox"] + div:before {
+  content: 'On' !important ;
+  float: left !important ;
+  width: 1.65em !important ;
+  height: 1.65em !important ;
+  margin: -.1em !important ;
+  border: 1px solid rgba(0, 0, 0, 0.35) !important ;
+  border-radius: inherit !important ;
+  background: white !important ;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), transparent) !important ;
+  box-shadow: 0 0.1em 0.1em 0.1em rgba(255, 255, 255, 0.8) inset, 0 0 0.5em rgba(0, 0, 0, 0.3) !important ;
+  color: white !important ;
+  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.3) !important ;
+  text-indent: -2.5em !important ;
+}
+:root input[type="checkbox"] + div:after {
+  content: 'Off' !important ;
+  float: left !important ;
+  text-indent: .5em !important ;
+  color: rgba(0, 0, 0, 0.45) !important ;
+  text-shadow: none !important ;
+}
+:root input[type="checkbox"]:checked + div {
+  padding-left: 2em !important ;
+  width: 1em !important ;
+  background-position: 0 0 !important ;
+}
+:root input[type="checkbox"]:active + div:before {
+  background-color: #eee !important ;
+}
+:root input[type="checkbox"]:focus + div {
+  box-shadow: 0 0.1em 0.1em rgba(0, 0, 0, 0.2) inset, 0 0.45em 0 0.1em rgba(0, 0, 0, 0.05) inset, 0 0 0.4em 1px rgba(255, 0, 0, 0.5) !important ;
+}
+
+:root input[type="checkbox"] + div:before, :root input[type="checkbox"] + div:after {
+  font: bold 60%/1.9 sans-serif !important ;
+  text-transform: uppercase !important ;
+}

@@ -1,0 +1,175 @@
+# Copyright (C) 2015 broken url notifier
+# This file is distributed under the same license as the broken url notifier package.
+msgid ""
+msgstr ""
+"Project-Id-Version: broken url notifier 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/WordPress-WooCommerce-Plugin-Boiler-Plate-master\n"
+"POT-Creation-Date: 2015-12-01 01:38:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class-admin-init.php:104
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:105
+msgid "F.A.Q"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:107
+msgid "Report Issue"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:108
+msgid "Donate"
+msgstr ""
+
+#: includes/admin/class-admin-init.php:109
+msgid "Contact Author"
+msgstr ""
+
+#: includes/admin/class-plugin-settings.php:37
+#: includes/admin/class-plugin-settings.php:38
+msgid "Settings Page"
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:21
+msgid "Integration Demo"
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:22
+msgid "An integration demo to show you how easy it is to extend WooCommerce."
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:43
+msgid "API Key"
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:45
+msgid "Enter with your API Key. You can find this in \"User Profile\" drop-down (top right corner) > API Keys."
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:50
+msgid "Debug Log"
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:52
+msgid "Enable logging"
+msgstr ""
+
+#: includes/admin/class-settings-intergation.php:54
+msgid "Log events such as API requests"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:28
+msgid "WC Advanced Intergation"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:44
+#: includes/admin/woocommerce-settings-advanced.php:75
+msgid "Simple Inputs"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:45
+msgid "Advanced Inputs"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:46
+msgid "Predefined Inputs"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:82
+#: includes/admin/woocommerce-settings-simple.php:52
+msgid "Text Box"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:83
+#: includes/admin/woocommerce-settings-simple.php:53
+msgid "This is a simple textbox"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:92
+#: includes/admin/woocommerce-settings-simple.php:62
+msgid "TextArea"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:94
+msgid "Simple TextArea."
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:101
+#: includes/admin/woocommerce-settings-simple.php:72
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:102
+#: includes/admin/woocommerce-settings-simple.php:73
+msgid "A Simple Radio Button"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:108
+msgid "option 1"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:109
+msgid "option 2"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:116
+msgid "Option 1"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-advanced.php:123
+msgid "Option 2"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:28
+msgid "WC Simple Intergation"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:45
+msgid "Simple Options"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:65
+msgid "SOme Value."
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:79
+msgid "Sell to all countries"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:80
+msgid "Sell to specific countries only"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:87
+msgid "Checbox"
+msgstr ""
+
+#: includes/admin/woocommerce-settings-simple.php:88
+msgid "A Simple Checkbox"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "broken url notifier"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/broken-url-notifier/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sample Plugin For WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Varun Sridharan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://varunsridharan.in"
+msgstr ""
